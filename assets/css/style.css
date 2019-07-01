@@ -192,9 +192,15 @@ footer {
     font-weight: 300;
 }
 
-#psych {
+/*-----------------------------------------------------*/
+
+/*individual dimensions for each portolio picture*/
+#psych, #crystal {
     height: 205.5px;
 }
+
+/*----------------------------------------------------*/
+
 
 /*contact*/
 
