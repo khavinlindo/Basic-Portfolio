@@ -195,7 +195,11 @@ footer {
 /*-----------------------------------------------------*/
 
 /*individual dimensions for each portolio picture*/
+<<<<<<< HEAD
 #psych, #crystal, #trivia, #train {
+=======
+#psych, #crystal, #trivia, #gif {
+>>>>>>> 9983f88d72a0dbaf59b8e960d43dd010202d95e0
     height: 205.5px;
 }
 
